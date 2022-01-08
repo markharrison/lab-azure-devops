@@ -59,7 +59,7 @@ const config = {
           {
             position: 'left',
             label: 'Labs Home',
-            href: '../labs',
+            href: 'https://markharrison.io/labs',
             target: '_self',
           },
           {
