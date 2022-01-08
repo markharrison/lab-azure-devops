@@ -52,13 +52,21 @@ const config = {
           alt: 'My Site Logo',
           src: 'img/logol.svg',
           srcDark: 'img/logod.svg',
+          href: 'https://markharrison.io/',
+          target: '_self',
         },
         items: [
+          {
+            position: 'left',
+            label: 'Labs Home',
+            href: '../labs',
+            target: '_self',
+          },
           {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Lab Docs',
+            label: 'Lab - Azure DevOps',
           },
           {
             href: 'https://github.com/markharrison/',
