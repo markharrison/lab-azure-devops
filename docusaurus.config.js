@@ -58,15 +58,15 @@ const config = {
         items: [
           {
             position: 'left',
-            label: 'Labs Home',
-            href: 'https://markharrison.io/labs',
+            label: 'Labs',
+            to: 'https://markharrison.io/labs',
             target: '_self',
           },
           {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Lab - Azure DevOps',
+            label: 'Azure DevOps - Hands on Lab',
           },
           {
             href: 'https://github.com/markharrison/',

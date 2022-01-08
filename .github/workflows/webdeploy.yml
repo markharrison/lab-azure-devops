@@ -1,7 +1,9 @@
 on:
   workflow_dispatch:
-  
-   
+  push:
+      branches:
+    - master
+     
 jobs:
   webdeploy:
     runs-on: ubuntu-latest
