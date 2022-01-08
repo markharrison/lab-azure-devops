@@ -135,7 +135,7 @@ Check the updated App has been deployed to the Dev environment
 
 ### Do Manual Testing
 
-At this stage - we should do our manual testing ... see the [Next](testplans-3.md) part of the lab.
+At this stage - we should do our manual testing ... see the [Next](part3.md) part of the lab.
 The Branch polices should be set to send the pull request to the Testers.  
 
 This remaining section of this part of the lab assumes that testing has been completed and no issues are outstanding.
