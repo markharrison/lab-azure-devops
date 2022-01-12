@@ -8,7 +8,7 @@ const config = {
   title: 'Lab - Azure DevOps',
   tagline: 'xxxxxx',
   url: 'https://markharrison.io',
-  baseUrl: '/Lab_AzureDevOps/',
+  baseUrl: '/labazuredevops/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
